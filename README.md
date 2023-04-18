@@ -6,8 +6,8 @@ This Terraform project provisions the infrastructure required for our applicatio
 
 Before using this project, you need to have the following tools installed on your machine:
 
-• **_Terraform_** (version 1.0.0 or later)
-• **_AWS CLI_** (version 2.0 or later)
+- [**Terraform**](https://developer.hashicorp.com/terraform/downloads) (version 1.0.0 or later)
+- [**AWS CLI**](https://aws.amazon.com/fr/cli/) (version 2.0 or later)
 
 You also need to have an AWS account with sufficient permissions to create the resources defined in the Terraform code.
 
